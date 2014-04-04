@@ -1,0 +1,8 @@
+INTSTYLE=xflow
+INFILE=/home/lpetrica/Documents/wyliodrin/test.ncd
+OUTFILE=/home/lpetrica/Documents/wyliodrin/test.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/lpetrica/Documents/wyliodrin
+LICENSE=WebPack
+USER_INFO=__0_0_0

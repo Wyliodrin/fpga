@@ -1,0 +1,6 @@
+setMode -bscan
+setCable -p auto
+identify
+assignFile -p 1 -file “test.bit”
+program -verify -p 1
+quit
